@@ -1,0 +1,19 @@
+{
+  "name": "api-nodejs",
+  "version": "1.0.0",
+  "description": "Exemplo de uma API em NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizfelipe-silva/API-NodeJs.git"
+  },
+  "author": "Luiz Felipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizfelipe-silva/API-NodeJs/issues"
+  },
+  "homepage": "https://github.com/luizfelipe-silva/API-NodeJs#readme"
+}
